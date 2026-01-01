@@ -40,7 +40,7 @@ seaborn >= 0.11.0
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/atrpred-enhancement.git
+git clone https://github.com/dilekht/atrpred-enhancement.git
 cd atrpred-enhancement
 
 # Install dependencies
@@ -241,8 +241,8 @@ If you use this work, please cite:
 @article{atrpred_enhancement2025,
   title={Enhanced Anti-TNF Response Prediction in Rheumatoid Arthritis through 
          Advanced Feature Engineering and Ensemble Learning},
-  author={[Your Name]},
-  journal={[Target Journal]},
+  author={Tahar Dilekh, Malika Boumechache, Issam Malki, Samy Slimani},
+  journal={PLOS Computational Biology},
   year={2025},
   note={Improves upon Prasad et al., PLOS Comput Biol 2022}
 }
@@ -287,8 +287,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For questions or collaborations:
-- Email: [your.email@example.com]
-- GitHub Issues: [Create an issue](https://github.com/yourusername/atrpred-enhancement/issues)
+- Email: [tahar.dilekh@univ-batna2.dz]
+- GitHub Issues: [Create an issue](https://github.com/dilekht/atrpred-enhancement/issues)
 
 ## 🔗 Links
 
