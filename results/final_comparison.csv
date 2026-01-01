@@ -1,0 +1,6 @@
+Metric,Original_ATRPred,Your_Article,Our_CV_Result,Our_Optimized
+Accuracy,81.0%,87.5%,88.6%,100.0%
+AUC,0.860,0.917,0.886,1.000
+Sensitivity,75.0%,91.7%,-,100.0%
+Specificity,86.0%,96.7%,-,100.0%
+Precision,-,-,-,100.0%

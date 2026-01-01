@@ -1,0 +1,39 @@
+{
+  "cv_auc": 0.8859016393442622,
+  "final_auc": 1.0,
+  "optimal_threshold": 0.5,
+  "accuracy": 1.0,
+  "sensitivity": 1.0,
+  "specificity": 1.0,
+  "precision": 1.0,
+  "confusion_matrix": {
+    "tn": 25,
+    "fp": 0,
+    "fn": 0,
+    "tp": 61
+  },
+  "n_features": 34,
+  "n_samples": 86,
+  "selected_features": [
+    "CXCL1",
+    "CXCL1_squared",
+    "PRKCQ",
+    "MCP-2",
+    "TANK",
+    "RARRES2",
+    "GT",
+    "TNFSF13B",
+    "gender_CXCL1_interaction",
+    "REN",
+    "CXCL5",
+    "BLDAS",
+    "TRAIL-R2",
+    "GDNF",
+    "ITGB6",
+    "AXIN1",
+    "DCBLD2",
+    "SPON1",
+    "IL13",
+    "hOSCAR"
+  ]
+}
